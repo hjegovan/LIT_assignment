@@ -1,4 +1,8 @@
 # LIT_assignment
+
+to properly run the program download the dependancies in the requirments.txt and the csv sheets, respectivly.
+
+
 You are given two data sets
 
 Historical Daily Oil Prices: RWTCD.xls
